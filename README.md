@@ -9,3 +9,18 @@ Libreria:
 
 ![libreria](https://github.com/EsCodPilares/Imagenes_Proyecto_DW/assets/159093155/0927d241-f8c0-4ed3-9d5f-cb7ccabd5d54)
 
+Lupa:
+
+![lupa](https://github.com/EsCodPilares/Imagenes_Proyecto_DW/assets/159093155/39e21110-fc3f-4818-bdeb-10e0590ec8f4)
+
+Persona:
+
+![persona](https://github.com/EsCodPilares/Imagenes_Proyecto_DW/assets/159093155/37fb2320-16da-4a92-8a5b-ce0a2a1fbb30)
+
+Me gusta:
+
+![corazón](https://github.com/EsCodPilares/Imagenes_Proyecto_DW/assets/159093155/4d597259-86ff-4a3d-8682-72c0093e3917)
+
+Bolsa compra:
+
+![bolsa](https://github.com/EsCodPilares/Imagenes_Proyecto_DW/assets/159093155/764d5b5d-09f8-4620-98be-00f12fb08227)
