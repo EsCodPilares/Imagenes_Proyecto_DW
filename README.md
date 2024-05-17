@@ -39,9 +39,9 @@ Cien años de soledad:
 
 ![libro_cien_años_soledad](https://github.com/EsCodPilares/Imagenes_Proyecto_DW/assets/159093155/5b3e1145-6dd3-4e19-9f7d-a9423831c3e7)
 
-La insoportable soledad del ser:
+La insoportable levedad del ser:
 
-
+![libro_insoportable_levedad_ser](https://github.com/EsCodPilares/Imagenes_Proyecto_DW/assets/159093155/49876f6f-b4e4-4ad3-ac79-f49cd20873cb)
 
 Como agua para chocolate:
 
